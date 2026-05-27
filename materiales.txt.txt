@@ -1,0 +1,3 @@
+Arduino Uno
+Python
+Sensores ultrasónicos
